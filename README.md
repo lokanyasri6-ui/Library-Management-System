@@ -20,18 +20,6 @@ A simple Java-based Library Management System developed using Object-Oriented Pr
 - IntelliJ IDEA
 - Git & GitHub
 
-## 📂 Project Structure
-
-text
-src/
-├── LibraryManagement.java
-├── Main.java
-├── Array.java
-├── Car.java
-├── Point2D.java
-└── Shape.java
-
-
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
